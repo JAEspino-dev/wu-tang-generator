@@ -1,0 +1,5 @@
+{
+  yourChoice: "",
+  flipResult: "",
+  winOrLoseMessage: ""
+}

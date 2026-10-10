@@ -11,7 +11,7 @@ Use this program if you want to generate a random name!
 <img width="1649" height="1140" alt="Screenshot 2026-10-05 at 12 42 02 AM" src="https://github.com/user-attachments/assets/4223952d-b525-4bee-ae87-4631b081760a" />
 
 # ✨ Features
-* Responsive design for desktop and mobile.         
+* Responsive design for desktop and mobile        
 
 # 🔨 Built With
 * HTML5 – structure    
